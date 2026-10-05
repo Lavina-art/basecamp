@@ -28,6 +28,7 @@ After taking this step, you will be able to:
 
 1. Using BaseCamp Tutorial [Available here](./bc-w05-python-tutorial.md) and **BRef-01: Chapter 07** answer and experiment the following questions:
    1. What is a tuple in Python and how is it defined?
+
    2. How can one combine and compare two (or more) tuples?
    3. How can one iterate over the elements of a tuple?
    4. How is a tuple modified?
@@ -56,7 +57,9 @@ After taking this step, you will be able to:
 
 1. Using BaseCamp Tutorial [Available here](./bc-w05-python-tutorial.md) and **BRef-01: Chapter 07** answer and experiment the following questions:
    1. What is a list in Python and how is it defined?
+
    2. What is the result of *split()* on a string?
+
    3. There are two ways to get items from a list: offset and slice. What are the pros / cons of each? Experiment with some examples.
    4. How can you add new elements to a list?
    5. How can you modify elements of a list?

@@ -1,0 +1,11 @@
+{
+    "python.testing.unittestArgs": [
+        "-v",
+        "-s",
+        ".",
+        "-p",
+        "Detective game_*.py"
+    ],
+    "python.testing.pytestEnabled": ,
+    "python.testing.unittestEnabled": true
+}

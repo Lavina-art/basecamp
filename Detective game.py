@@ -1,4 +1,3 @@
-#hello
 inventory = []
 puzzle_hint = ""
 
